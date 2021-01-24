@@ -1,0 +1,9 @@
+galaxy_info:
+  author: Aaron Yildiztas
+  description: A simple role to install prerequisites
+  company: IMSA
+  license: MIT
+  min_ansible_version: 2.4
+  galaxy_tags:
+    - prerequisites
+dependencies: []
